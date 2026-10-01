@@ -29,7 +29,7 @@ fun RandomPage() {
         verticalArrangement = Arrangement.Center
     ) {
         Text(
-            text = "App native opérationnelle ! 🚀",
+            text = "App native opérationnelle ! 🚀 TEST",
             style = MaterialTheme.typography.headlineSmall
         )
         Button(onClick = { count++ }) {
